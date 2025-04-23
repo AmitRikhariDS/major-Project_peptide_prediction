@@ -1,6 +1,7 @@
 # 🧬 Peptide Classification with CNN-BLSTM
 
 This project is a deep learning-based web application that classifies peptides as **hormonal** or **non-hormonal** using a hybrid **CNN-BLSTM** model. Built with **TensorFlow/Keras** and deployed using **Streamlit**, this app allows real-time predictions from user-input peptide sequences.
+**Webapp link**: https://predictpeptide.streamlit.app/
 
 ---
 
@@ -70,6 +71,7 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+
 ```
 
 ---
