@@ -1,7 +1,7 @@
 Model,F1 Score,Accuracy
-Logistic Regression,0.8500,0.8500
-Decision Tree,0.8467,0.8467
-Random Forest,0.8633,0.8633
-Support Vector Machine,0.8334,0.8333
-K-Nearest Neighbors,0.8031,0.8033
-XGBoost,0.8966,0.8967
+Logistic Regression,0.8338,0.8340
+Decision Tree,0.7783,0.7787
+Random Forest,0.8552,0.8553
+Support Vector Machine,0.8489,0.8489
+K-Nearest Neighbours,0.7334,0.7383
+XG Boost,0.8573,0.8574
