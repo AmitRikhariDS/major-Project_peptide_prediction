@@ -36,8 +36,7 @@ We evaluated and benchmarked against:
 - K-Nearest Neighbors
 - XGBoost
 
-> 📈 Best F1 Score: **0.8966** using XGBoost
-
+> 📈 Best Accuracy: **0.86** using hybrid model CNN-BLSTM
 ---
 
 ## 📁 File Structure
